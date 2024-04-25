@@ -1,3 +1,3 @@
 ## 10-academy project
- # Efrata Daniel
+ # Author: Efrata Daniel
  # Task one and Task Two
